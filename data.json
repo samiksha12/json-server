@@ -1,6 +1,5 @@
 {
-    "dataTable": [
-        {
+    {
           "id": 1,
           "userId": 2,
           "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro quaerat ullam ex veritatis nihil alias quidem nulla ipsum quas nesciunt quisquam dicta iusto modi, mollitia dolorum voluptatibus. Libero consectetur suscipit sequi ut dignissimos soluta atque eum? Consequuntur provident alias dolore, ab totam hic reiciendis, adipisci officia temporibus autem sapiente consectetur.",
@@ -42,5 +41,4 @@
           "text": "This is example for edit after hosting app",
           "rating": "7"
         }
-      ]
 }
