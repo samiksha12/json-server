@@ -1,5 +1,5 @@
 {
-    {
+   [ {
       "id": 1,
       "username": "admin",
       "password": "admin",
@@ -26,4 +26,5 @@
       "emailId": "xyz@gmail.com",
       "fullName": "Bishal Nepal"
     }
+    ]
 }
