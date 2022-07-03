@@ -1,5 +1,4 @@
 {
-  "userTable": [
     {
       "id": 1,
       "username": "admin",
@@ -27,5 +26,4 @@
       "emailId": "xyz@gmail.com",
       "fullName": "Bishal Nepal"
     }
-  ]  
 }
